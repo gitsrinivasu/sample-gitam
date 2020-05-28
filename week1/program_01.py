@@ -1,7 +1,9 @@
 # Write a function to add two numbers
 
 def add(a, b):
-    pass
+    sum = a + b
+    return sum
+
 
 num1 = 45
 num2 = 34
